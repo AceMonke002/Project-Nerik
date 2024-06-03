@@ -1,0 +1,74 @@
+
+Left Stick X-Axis
+X Axis
+-1 to 1
+
+Left Stick Y-Axis
+Y Axis
+1 to -1
+
+Right Stick X-Axis
+3rd Axis
+-1 to 1
+
+Right Stick Y-Axis
+6th Axis
+1 to -1
+
+DPAD X-Axis
+7th Axis
+-1 to 1 (0.64 with multiple buttons)
+
+DPAD Y-Axis
+9th Axis
+-1 to 1 (0.64 with multiple buttons)
+
+L1
+joystick button 4
+
+R1
+joystick button 5
+
+L2 as Button
+joystick button 6
+
+L2 as Axis
+4th Axis
+-1 to 1
+
+R2 as Button
+joystick button 7
+
+R2 as Axis
+5th Axis
+-1 to 1
+
+Left Stick Click
+joystick button 10
+
+Right Stick Click
+joystick button 11
+
+Touchpad Click
+joystick button 13
+
+X Button
+joystick button 1
+
+O Button
+joystick button 2
+
+Square Button
+joystick button 0
+
+Triangle Button
+joystick button 3
+
+Share Button
+joystick button 8
+
+Option Button
+joystick button 9
+
+PS Button
+joystick button 12
